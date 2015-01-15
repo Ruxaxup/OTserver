@@ -361,7 +361,18 @@
 		<vocation id="6"/>
 	</instant>
 
-	<instant name="Ruxa Excramation" words="ruxa excramation" lvl="1" mana="1" prem="1" aggressive="1" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="new/ruxaExcramation.lua">
+	<instant name="Ruxa Excramation" words="ruxa excramation" lvl="1" mana="1" prem="1" aggressive="1" selftarget="1" exhaustion="6000" needlearn="0" event="script" value="new/ruxaExcramation.lua">
+		<vocation id="1"/>
+		<vocation id="2"/>
+		<vocation id="3"/>
+		<vocation id="4"/>
+		<vocation id="5"/>
+		<vocation id="6"/>
+		<vocation id="7"/>
+		<vocation id="8"/>
+	</instant>
+
+	<instant name="Animated" words="animated" lvl="1" mana="1" prem="1" aggressive="1" selftarget="1" exhaustion="0" needlearn="0" event="script" value="new/animated.lua">
 		<vocation id="1"/>
 		<vocation id="2"/>
 		<vocation id="3"/>
