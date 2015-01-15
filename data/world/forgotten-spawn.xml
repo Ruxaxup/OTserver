@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="993" centery="980" centerz="6" radius="1">
+		<monster name="Zugurosh" x="-1" y="0" z="6" spawntime="10" />
+		<monster name="Zugurosh" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Zugurosh" x="-1" y="1" z="6" spawntime="10" />
+		<monster name="Zugurosh" x="0" y="1" z="6" spawntime="10" />
+	</spawn>
+	<spawn centerx="1008" centery="980" centerz="6" radius="1">
+		<monster name="Zugurosh" x="-1" y="0" z="6" spawntime="10" />
+		<monster name="Zugurosh" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Zugurosh" x="-1" y="1" z="6" spawntime="10" />
+		<monster name="Zugurosh" x="0" y="1" z="6" spawntime="10" />
+	</spawn>
+	<spawn centerx="983" centery="991" centerz="6" radius="1">
+		<monster name="Zugurosh" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Zugurosh" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Zugurosh" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Zugurosh" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1018" centery="991" centerz="6" radius="1">
+		<monster name="Zugurosh" x="-1" y="0" z="6" spawntime="10" />
+		<monster name="Zugurosh" x="-1" y="1" z="6" spawntime="10" />
+	</spawn>
+	<spawn centerx="1000" centery="992" centerz="6" radius="1">
+		<monster name="Zugurosh" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1001" centerz="6" radius="1">
+		<monster name="Zugurosh" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="983" centery="1007" centerz="6" radius="1">
+		<monster name="Zugurosh" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Zugurosh" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1018" centery="1007" centerz="6" radius="1">
+		<monster name="Zugurosh" x="-1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="994" centery="1014" centerz="6" radius="1">
+		<monster name="Zugurosh" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Zugurosh" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1010" centery="1014" centerz="6" radius="1">
+		<monster name="Zugurosh" x="-1" y="-1" z="6" spawntime="10" />
+	</spawn>
+	<spawn centerx="1006" centery="994" centerz="7" radius="1">
+		<monster name="Carrion Worm" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Carrion Worm" x="1" y="1" z="7" spawntime="60" />
+	</spawn>
+</spawns>

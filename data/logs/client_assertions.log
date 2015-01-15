@@ -1,0 +1,20 @@
+----- 08/01/2015 21:09:09 - Luxenor (192.168.0.117) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in USA
+Processor: AMD FX -6300 
+Video Card: NVIDIA GeForce GTX 650
+Last Packet Types: 170 030 131 106 108 109 030 132 132 132
+Last Packet: 170 221 001 000 000 007 000 082 117 120 097 120 117 112 000 000
+Player Position: [997,1001,7]
+Player Name: Luxenor (Level: 3699 Voc: S)
+Player Action: 049 057 050 046 049 054 056 046 048 046 049 048 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 170) (MainWindow = 3518048), reason:
+Communication.cpp 2798: exception occurred (Mode = 0) (Channel = 0), reason:
+Communication.cpp 2792: unknown talk mode (Mode = 0), reason:
+[bug0000649]
+Thu Jan 08 21:10:32 2015
+Debug Assertion 8.60 Communication.cpp 2792
+
